@@ -1,0 +1,2 @@
+# Caffe_CNN_For_LoopClosureDetection
+使用基于Caffe的CNN模型进行闭环检测
